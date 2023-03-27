@@ -1,0 +1,79 @@
+{
+  "pageIndex": 0,
+  "pageSize": 0,
+  "count": 0,
+  "data": [
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "user": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "string",
+        "surname": "string",
+        "email": "string",
+        "country": {
+          "id": 0,
+          "name": "string"
+        },
+        "city": {
+          "id": 0,
+          "name": "string"
+        },
+        "role": {
+          "id": 0,
+          "name": "string"
+        },
+        "photo": {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "uri": "string",
+          "contentType": "string",
+          "fileName": "string",
+          "activityId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "commentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      },
+      "name": "string",
+      "description": "string",
+      "address": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "latitude": 0,
+        "longitude": 0,
+        "road": "string",
+        "suburb": "string",
+        "town": "string",
+        "provience": "string",
+        "region": "string",
+        "country": "string"
+      },
+      "isPrivate": true,
+      "snapshot": {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "uri": "string",
+        "contentType": "string",
+        "fileName": "string",
+        "activityId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "commentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+      },
+      "activityDate": "2023-03-26T19:05:30.058Z",
+      "activityType": {
+        "id": 0,
+        "name": "string",
+        "icon": "string",
+        "family": "string"
+      },
+      "photos": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "uri": "string",
+          "contentType": "string",
+          "fileName": "string",
+          "activityId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "commentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        }
+      ]
+    }
+  ]
+}
