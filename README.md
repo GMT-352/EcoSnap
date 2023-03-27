@@ -43,3 +43,9 @@ GET
 ##  Response
 [Activities Response Example](https://raw.githubusercontent.com/ilyascokan/EcoSnap/main/3%20ActivitesResponse.json)
 
+# User Project
+- Download the EcoSnap application to your Andriod phone
+- Make friends
+- Create activities
+- Fetch your records using the above methods
+- Create a map project in any language and display these records on your page using the map library you want. (with location and photo information)
