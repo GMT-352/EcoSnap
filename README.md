@@ -36,8 +36,10 @@ POST
 # Friends Activities Request
 ##  URL
 https://peer-review.hacettepe.edu.tr/v1/api/activity?IdForFriends=d6483dea-e83f-48f8-9791-e95006e555bf&PageIndex=1&PageSize=1000
-Update IdForFriends parameter with your id : $\color{red}{\textrm{d6483dea-e83f-48f8-9791-e95006e555bf}}$
+> __Warning__
+Update IdForFriends parameter with your user id : $\color{red}{\textrm{d6483dea-e83f-48f8-9791-e95006e555bf}}$
 ##  Method
 GET
 ##  Response
 [Activities Response Example](https://raw.githubusercontent.com/ilyascokan/EcoSnap/main/3%20ActivitesResponse.json)
+
