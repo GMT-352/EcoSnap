@@ -48,4 +48,4 @@ GET
 - Make friends
 - Create activities
 - Fetch your records using the above methods
-- Create a map project in any language and display these records on your page using the map library you want. (with location and photo information)
+- Create a map project in any language and display these records on your page using any map library you want. (with location and photo information)
