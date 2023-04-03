@@ -34,7 +34,7 @@ POST
 
 # Friends Activities Request
 ##  URL
-https://peer-review.hacettepe.edu.tr/v1/api/activity?IdForFriends=d6483dea-e83f-48f8-9791-e95006e555bf&PageIndex=1&PageSize=1000
+https://peer-review.hacettepe.edu.tr/v1/api/studentactivity?UserId=********-****-****-****-************
 > __Warning__
 Update IdForFriends parameter with your user id : $\color{red}{\textrm{d6483dea-e83f-48f8-9791-e95006e555bf}}$
 ##  Method
