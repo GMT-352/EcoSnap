@@ -19,13 +19,12 @@ You can downloay EcoSnap from [Google Play](https://play.google.com/store/apps/d
 
 # User Information Request
 ##  URL
-https://peer-review.hacettepe.edu.tr/v1/api/account/login
+https://peer-review.hacettepe.edu.tr/v1/api/studentactivity/login
 ##  Parameters
 ```json
 {
   "email": "*****@*****.com",
-  "password": "********",
-  "pushToken": "anystring"
+  "password": "********"
 }
 ```
 ##  Method
