@@ -11,7 +11,7 @@ Enables to report an array of incidents including, but not limited to:
 - Waste
 - Other Problems
 
-You can downloay EcoSnap from [Google Play](https://play.google.com/store/apps/details?id=com.ecosnap.app) freely.
+You can download EcoSnap from [Google Play](https://play.google.com/store/apps/details?id=com.ecosnap.app) freely.
 
 # EcoSnap Mobile Architecture 
 
