@@ -13,6 +13,10 @@ Enables to report an array of incidents including, but not limited to:
 
 You can download EcoSnap from [Google Play](https://play.google.com/store/apps/details?id=com.ecosnap.app) freely.
 
+You can download EcoSnap from [Google Play](https://play.google.com/store/apps/details?id=com.ecosnap.app) freely.
+If you encounter an error in google play, download the apk file directly to your phone and install it.
+[EcoSnap Apk](https://peer-review.hacettepe.edu.tr/ecosnap-photos/ecosnap.apk)
+
 # EcoSnap Mobile Architecture 
 
 ![architecture](https://github.com/ilyascokan/EcoSnap/blob/main/Architecture.jpg)
