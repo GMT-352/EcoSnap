@@ -46,3 +46,35 @@ GET
 - Create activities
 - Fetch your records using the above methods
 - Create a map project in any language and display these records on your page using any map library you want. (with location and photo information)
+
+
+/makhambet moldashov/22206740**
+
+1.open Sewerage.
+Danger-a person can fall.
+
+![IMG-20230501-WA0007](https://user-images.githubusercontent.com/130654850/235636934-403a702a-9ee5-404a-8cd8-9c09dc32704a.jpg)
+
+2.The path that causes discomfort. 
+Without the second light, which destroys the first beauty, in the evening a person can fall.
+
+![IMG-20230501-WA0005](https://user-images.githubusercontent.com/130654850/235637037-d939f1f9-b419-4f94-9ecb-4ae32b0ba4b4.jpg)
+
+3.Uncomfortable Road.When walking, a person's foot can fall inside and discomfort with the movement of the machine.
+
+![IMG-20230501-WA0008](https://user-images.githubusercontent.com/130654850/235637111-b691de2a-6ab9-4963-9019-def09a78c571.jpg)
+
+4.Uncomfortable Road.
+On a rainy day, the risk of water accumulation and vehicle breakage increases.
+
+![IMG-20230501-WA0003](https://user-images.githubusercontent.com/130654850/235637167-06d58d06-25a0-4edf-a68d-28a515701a3a.jpg)
+
+5.Dangerous sewer.
+A person and a dog on a compass can fall into the sewers
+
+![IMG-20230501-WA0002](https://user-images.githubusercontent.com/130654850/235637258-c67610ca-e80c-44c9-b530-724e355433db.jpg)
+
+6.Clogged waterway and dangerous road for people and vehicles
+
+![IMG-20230501-WA0009](https://user-images.githubusercontent.com/130654850/235645355-247464cd-7da4-40fb-ad59-336759f354ec.jpg)
+
